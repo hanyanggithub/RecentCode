@@ -1,0 +1,6 @@
+framework module RenguSDK {
+  umbrella header "RenguSDK.h"
+
+  export *
+  module * { export * }
+}
